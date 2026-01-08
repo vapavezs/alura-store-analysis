@@ -10,7 +10,7 @@ Analizar ventas, rendimiento y reseñas de 4 tiendas de Alura Store para identif
 - Google Colab
 
 ## Estructura del Proyecto
-- data/raw: odataset original
+- data/raw: dataset original
 - notebooks: notebook para el análisis
 - figures: gráficas generadas
 
